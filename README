@@ -1,9 +1,9 @@
-**Databases Part 4c Assignment: Cloud Database Management with Connection Pooling and Migrations**
+# Databases Part 4c Assignment: Cloud Database Management with Connection Pooling and Migrations
 
-### GCP Instance
+### 1. GCP Instance
 - Logged into GCP
-- Created A new GCP mySQL instance 
+- Created a new GCP mySQL instance
 
-### Azure instance
-- Logged into Azure
+### 2. Azure Instance
+- Logged into Azure 
 - Created a new Azure mySQL instance 
